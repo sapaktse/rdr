@@ -1,0 +1,12 @@
+com\sap\rdr\core\common\model\SecurityConcern.class
+com\sap\rdr\core\common\util\SpringContextUtil.class
+com\sap\rdr\core\config\LocalConfig.class
+com\sap\rdr\core\common\model\Report.class
+com\sap\rdr\core\controller\AppController.class
+com\sap\rdr\core\config\CloudConfig.class
+com\sap\rdr\core\common\model\Assessment.class
+com\sap\rdr\core\common\model\Attachment.class
+com\sap\rdr\core\common\model\SafetyConcern.class
+com\sap\rdr\core\common\context\JPAServiceFactory.class
+com\sap\rdr\core\common\model\Damage.class
+com\sap\rdr\core\common\model\Need.class
